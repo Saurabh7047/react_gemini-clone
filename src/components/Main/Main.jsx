@@ -17,7 +17,7 @@ const Main = () => {
   return (
     <div className="Main">
       <div className="nav">
-        <p>React Gemini</p>
+        <p>React Gemini App</p>
         <img src={assets.user_icon} alt="" />
       </div>
       <div className="main-container">
